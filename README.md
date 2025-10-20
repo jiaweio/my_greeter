@@ -1,6 +1,8 @@
 # 说明：
  * - 使用 Calendar，兼容Android低版本。
  * - 支持传入时区，便于测试与多时区的应用场景。
+   - 文件路径：app/src/main/java/com/example/my_greeter
+   - MainActivity 有实现测试代码 
 
 # 思考:
  * - 抱歉，因为对 python以及php语言不够熟悉，大致看了下 my_greeter_test.py 测试类，发现一些小问题：
